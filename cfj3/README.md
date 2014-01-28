@@ -14,7 +14,7 @@ Design decisions for this example:
 
 `lein run`
 
-or `lein uberjar` and than `java -jar cfj3-0.1.0-SNAPSHOT-standalone.jar`
+or `lein uberjar` and then `java -jar cfj3-0.1.0-SNAPSHOT-standalone.jar`
 
 ## How it is done
 
